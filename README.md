@@ -1,4 +1,4 @@
-```
+
 # Taskmate: A Simple and Efficient Task Manager
 
 ---
@@ -120,5 +120,7 @@ For inquiries or suggestions, reach out to me:
 ## License 📄
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-```
+
+## Demo.gif 
+
 
