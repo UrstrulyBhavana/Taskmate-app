@@ -51,23 +51,24 @@ Taskmate/
 │   ├── favicon.ico           # App favicon
 ├── README.md                 # Project documentation
 
+```
+## ⚡ Installation & Setup :-
 
-## ⚡ Installation & Setup
 🔹 Step 1: Clone the repository
-
 git clone https://github.com/UrstrulyBhavana/Taskmate.git
 cd Taskmate
 
 🔹 Step 2: Install dependencies
-npm install
+ npm install
 
 🔹 Step 3: Run the application
-npm start
+ npm start
 
 🔹 Step 4: Build for production
-npm run build
+ npm run build
 
-## 📌 Functionality Breakdown
+## 📌 Functionality Breakdown :-
+
 📌 Header Component:
    - Displays logo and app title.
    - Provides a theme selector for customization.
@@ -91,7 +92,6 @@ npm run build
 📩 Email: urstrulybhavana1432@gmail.com
 🔗 GitHub: UrstrulyBhavana
 
-```
 
 ## Demo.gif
 
