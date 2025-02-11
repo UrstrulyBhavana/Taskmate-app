@@ -86,13 +86,14 @@ cd Taskmate
    - Stores tasks persistently.
    - Saves selected theme preferences.
 
+```
 
 📧 Contact & Contribution
 👩‍💻 Developed by: Linga Bhavana
 📩 Email: urstrulybhavana1432@gmail.com
 🔗 GitHub: UrstrulyBhavana
 
-
+```
 ## Demo.gif
 
 
