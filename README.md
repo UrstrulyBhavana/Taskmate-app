@@ -1,4 +1,4 @@
-```
+
 # Taskmate: A Simple and Efficient Task Manager
 
 ---
