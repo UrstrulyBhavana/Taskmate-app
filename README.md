@@ -12,9 +12,13 @@ Welcome to **Taskmate**, a lightweight and intuitive task management application
 ## Features ✨
 
 ✅ **Add & Edit Tasks**: Instantly create and modify tasks.
+
 ✅ **Task Counter**: Keep track of the number of tasks.
+
 ✅ **Local Storage Support**: Tasks persist even after page refresh.
+
 ✅ **Multi-Theme Support**: Choose between light, dark, and gradient themes.
+
 ✅ **Clear All Tasks**: Easily remove all tasks in a single click.
 
 ---
