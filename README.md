@@ -3,6 +3,10 @@
 
 ---
 
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/85131924-caa9-4639-b122-e4dee63ad24b)
+
 ## Overview 📝
 
 Welcome to **Taskmate**, a lightweight and intuitive task management application designed to streamline your daily workflow. With features like task addition, editing, theming, and local storage support, Taskmate enhances productivity and provides a seamless user experience.
@@ -105,28 +109,28 @@ $ npm start
 4️⃣ The app **automatically saves tasks** for future access.  
 
 ---
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
 
-## Contributors 👥
-
-👩‍💻 **Linga Bhavana** - Developer & Maintainer  
-
----
-
-## Contact 📧
-
-For inquiries or suggestions, feel free to reach out:
-
-📩 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
-🔗 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)  
+GitHub | urstrulybhavana1432@gmail.com
 
 ---
 
-## License 📜
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+📬 **Contact**
 
-## Demo.gif
+For questions or suggestions, feel free to reach out:
 
-![Image](https://github.com/user-attachments/assets/85131924-caa9-4639-b122-e4dee63ad24b)
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
 
 
